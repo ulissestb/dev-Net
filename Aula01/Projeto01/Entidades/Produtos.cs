@@ -39,5 +39,7 @@ namespace Projeto01.Entidades
             set { quantidade = value; }//entrada
             get { return quantidade; }//saida
         }
+
+        
     }
 }
